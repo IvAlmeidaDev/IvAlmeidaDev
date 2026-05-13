@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./github-header-banner.png" alt="Banner" />
+</p>
+
 # Hi, I'm Iván 👋
 
 Frontend Developer focused on React, Tailwind CSS and modern UI development.
